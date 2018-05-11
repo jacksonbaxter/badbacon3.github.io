@@ -30,7 +30,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/badbacon3/badbacon3.github.io">Personal Site</a></li>
+	<li><a href="https://github.com/">Personal Blockchain</a></li>
+	<li><a href="https://github.com/">Personal CryptoCurrency</a></li>
 </ul>
