@@ -3,4 +3,4 @@ title: Personal Site
 projects: use this for projects
 ---
 
-<meta http-equiv="refresh" content="0; URL='https://github.com/badbacon3/badbacon3.github.io'" />
+Go ahead and click <a class="link" href="https://github.com/badbacon3/badbacon3.github.io" target="_blank">this</a> link if you would like to check out a GitHub repository for this site.
