@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Veni Vidi Vici - Computer Science Enthusiast</p>
+<p>Vires in Numeris - Computer Science Enthusiast</p>
 
 <h2>Skills</h2>
 
