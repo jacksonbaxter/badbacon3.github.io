@@ -31,6 +31,6 @@ layout: page
 
 <ul>
 	<li><a href="https://github.com/badbacon3/badbacon3.github.io">Personal Site</a></li>
-	<li><a href="https://github.com/">Personal Blockchain</a></li>
+	<li><a href="https://github.com/badbacon3/personal-python-blockchain">Personal Blockchain</a></li>
 	<li><a href="https://github.com/">Personal CryptoCurrency</a></li>
 </ul>
