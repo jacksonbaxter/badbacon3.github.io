@@ -1,6 +1,6 @@
 # main text of home
 name: Jackson Baxter
-bio: Vires in Numeris - Computer Science Enthusiast
+bio: Computer Science - BYU
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1EOmYxUmkrexkgdzB5V1AhZw5UkSe7IwI/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1zIamQZuUSz7IJ_8qOPUQsahrQfnDaJnf/view?usp=sharing
 
 url: https://badbacon3.github.io
 # your url: http://USERNAME.github.io
@@ -34,16 +34,16 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: badbacon3
-twitter: badbacon3
+facebook: joshjacksonbaxter
+twitter: jacksonbaxter
 # google: mygoogle
-instagram: badbacon3
+instagram: joshjacksonbaxter
 # pinterest: mypinterest
 linkedin: jackson-baxter-3b4088158
 # youtube: myyoutube
-# spotify: myspotify
+spotify: h5iaklaa4zojljropwfpsywo6
 github: badbacon3
-# lastfm: mylastfm
+lastfm: badbacon3
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 reddit: badbacon3

@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Vires in Numeris - Computer Science Enthusiast</p>
+<p>Computer Science - BYU</p>
 
 <h2>Skills</h2>
 
@@ -14,8 +14,6 @@ layout: page
 	<li>Java</li>
 	<li>CSS</li>
 	<li>C++</li>
-	<li>NodeJS</li>
-	<li>AngularJS</li>
 	<li>HTML</li>
 	<li>Git</li>
 	<li>Linux - Ubuntu - Kali - Red Hat</li>
@@ -24,7 +22,6 @@ layout: page
 	<li>MySQL</li>
 	<li>XML</li>
 	<li>Swift</li>
-	<li>Databases</li>
 </ul>
 
 <h2>Projects</h2>
